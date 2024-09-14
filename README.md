@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sukhdee Singh</h1>
+<h1 align="center">Hi 👋, I'm Sukhdeep Singh</h1>
 <h3 align="center">I'm a passionate software developer with around 2+ years of experience in Python, Django, Machine Learning, and Full Stack Web Development. I love creating impactful solutions, like a Django-based website for student assessments and predictive models for industrial processes. I'm currently working on a generative model for code creation and have completed over 30 machine learning projects. My drive for tech and user-friendly design keeps me pushing boundaries and innovating every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhioo7&label=Profile%20views&color=0e75b6&style=flat" alt="sukhioo7" /> </p>
