@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing](https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/sukhdeep-singh-891b15216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sukhdeep-singh-891b15216" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@punjabicodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@punjabicodex" height="30" width="40" /></a>
