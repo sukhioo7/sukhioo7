@@ -16,18 +16,18 @@ alt="coding image gif">
             regret hiring.
         </p>
     </p>
-<p style="">
+<p>
     <img style="width: 30%;" padding-top: 10%;" align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
-<p style="padding: 0 2em;">
-    &nbsp;<img style="width: 30%;" align="left" justify="center"
+<p>
+    &nbsp;<img style="width: 40%;" align="left"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
-<p style="padding: 0 2em;">
-    <img style="width: 30%;" align="center"
+<p">
+    <img style="width: 40%;" align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sukhioo7&" alt="sukhioo7" />
 </p> 
 
