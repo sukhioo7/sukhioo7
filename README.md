@@ -3,7 +3,7 @@
 alt="coding image gif">
 <p style="display: flex; justify-content: space-evenly; align-items: center;">
     <p style="width: 70%; padding: 2em; ">
-        <h1 style="font-size: 5em;">Hey I'm Sukhdeep</h1>
+        <h1 style="font-size: 5em;"># Hey I'm Sukhdeep</h1>
         <p style="line-height: 1.5em;">
             As a developer driven by a deep passion for problem-solving and innovation, I’ve spent the last <B>2+ years</B>
             mastering <B>Python</B>, <B>Django</B>, <B>Machine Learning</B>, and <B>Full Stack Web Development</B>. I thrive on tackling challenges
