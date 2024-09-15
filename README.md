@@ -22,7 +22,7 @@ alt="coding image gif">
     alt="sukhioo7" />
 </p>
 <p style="padding: 0 2em;">
-    &nbsp;<img style="width: 30%;" align="left"
+    &nbsp;<img style="width: 30%;" align="left" justify="center"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
