@@ -13,8 +13,8 @@
             regret hiring.
         </p>
     </p>
-<p style="padding: 2em; ">
-<img style="width: 40%;" align="left"
+<p style="">
+<img style="width: 80%;" align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
