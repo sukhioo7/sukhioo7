@@ -17,7 +17,7 @@ alt="coding image gif">
         </p>
     </p>
 <p style="">
-    <img style="width: 30%;" padding-top: 10%;" align="center"
+    <img style="width: 30%;" padding-top: 10%;" align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
@@ -27,7 +27,7 @@ alt="coding image gif">
     alt="sukhioo7" />
 </p>
 <p style="padding: 0 2em;">
-    <img style="width: 30%;" align="left"
+    <img style="width: 30%;" align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sukhioo7&" alt="sukhioo7" />
 </p> 
 
