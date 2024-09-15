@@ -1,5 +1,5 @@
 
-<img style="width: 100%;" align="center"   src="https://raw.githubusercontent.com/gist/Prince-Shivaram/106aa0f37f016eda7ec65de5acb90471/raw/760aff1fe331f8a445d4573aa88fd2ec16e72b83/My-work.gif"
+<img style="width: 100%;" align="center"   src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
 alt="coding image gif">
 <p style="display: flex; justify-content: space-evenly; align-items: center;">
     <p style="width: 70%; padding: 2em; ">
