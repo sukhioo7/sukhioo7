@@ -26,7 +26,7 @@ alt="coding image gif">
     alt="sukhioo7" />
 </p>
 <p style="padding: 0 2em;">
-    <img style="width: 40%;" align="left"
+    <img style="width: 40%;" align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=sukhioo7&" alt="sukhioo7" />
 </p> 
 
