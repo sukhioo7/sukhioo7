@@ -22,7 +22,7 @@ alt="coding image gif">
 
 
 <div align="left">
-  <a href="https://www.youtube.com/@punjabicodex">
+  <a href="https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing">
       <img src="https://cdn-icons-png.freepik.com/256/16326/16326988.png?uid=R64479108&semt=ais_hybrid" height="35" alt="resume logo"  />
   </a>
   <a href="https://www.youtube.com/@punjabicodex">
@@ -109,7 +109,7 @@ alt="coding image gif">
 
 - 📫 How to reach me **deepsukhi943@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing](https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing]()
 
 
 <p align="left">
