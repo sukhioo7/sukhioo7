@@ -84,12 +84,19 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="30" alt="c++ logo"  />
   <img width="12" />
-
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.dribbble.com/userupload/10867806/file/original-4062891ad1a2cd5e4452dba3e25bd68e.png" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn3d.iconscout.com/3d/premium/thumb/adobe-xd-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-application-app-technology-creative-software-pack-appliances-icons-8412293.png" height="30" alt="Adobe logo"  />
+  <img width="12" />
+  <img src="https://d1larhalzuwzrz.cloudfront.net/kRhtcjD68Fs99LYVr1nRRydL" height="30" alt="premiere logo"  />
+  <img width="12" />
 </div>
 
 <p></p>
 <p></p>
-<p></p>
+<p>
     <img style="width: 370px;" padding-top: 10%;" align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
