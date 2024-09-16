@@ -48,13 +48,13 @@ alt="coding image gif">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
 <p>
-    <img style="width: 40%;" padding-top: 10%;" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
-    alt="sukhioo7" />
-</p>
+    <img style="width: 45%;" align="left"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sukhioo7&" alt="sukhioo7" />
+</p> 
 <p>
-    &nbsp;<img style="width: 55%;" align="center"
+    &nbsp;<img style="width: 45%;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
