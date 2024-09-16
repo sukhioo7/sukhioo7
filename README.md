@@ -23,7 +23,7 @@ alt="coding image gif">
 
 <div align="left">
   <a href="https://www.youtube.com/@punjabicodex">
-      <img src="https://cdn.paperpile.com/blog/img/CV-with-star-1400x700.png" height="35" alt="resume logo"  />
+      <img src="https://cdn-icons-png.freepik.com/256/16326/16326988.png?uid=R64479108&semt=ais_hybrid" height="35" alt="resume logo"  />
   </a>
   <a href="https://www.youtube.com/@punjabicodex">
       <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
