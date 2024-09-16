@@ -45,6 +45,8 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IsXMTUN_T52cx7rtRLKau0sMkhpQPfzlqA&s" height="30" alt="sklearn logo"  />
   <img width="12" />
+  <img src="https://cdn-icons-png.flaticon.com/512/9831/9831356.png" height="30" alt="NLP logo"  />
+  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/16359713?v=4" height="30" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://huggingface.co/chat/settings/assistants/65c105e6b5a9dd265ad6f801/avatar.jpg?hash=e284dce847bae467ab6abfc6df6fdc043f9903328570879d05f0e7181415ea58" height="30" alt="pytorch logo"  />
@@ -66,6 +68,12 @@ alt="coding image gif">
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.pngg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" height="30" alt="wordpress logo"  />
   <img width="12" />
 </div>
 
