@@ -96,12 +96,12 @@ alt="coding image gif">
 
 <p></p>
 <p></p>
-    <img style="width: 430px;" padding-top: 10%;" align="left"
+    <img style="width: 428px;" padding-top: 10%;" align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
 <p>
-    &nbsp;<img style="width: 55%;" align="center"
+    &nbsp;<img style="width: 438px;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
