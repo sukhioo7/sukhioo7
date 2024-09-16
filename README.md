@@ -49,12 +49,13 @@ alt="coding image gif">
 </div>
 
 <p></p>
+<p></p>
+    <img style="width: 40%;" padding-top: 10%;" align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
+    alt="sukhioo7" />
+</p>
 <p>
-    <img style="width: 45%;" align="left"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sukhioo7&" alt="sukhioo7" />
-</p> 
-<p>
-    &nbsp;<img style="width: 45%;" align="center"
+    &nbsp;<img style="width: 55%;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
