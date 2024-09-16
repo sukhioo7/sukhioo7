@@ -57,15 +57,15 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" height="30" alt="django logo"  />
+  <img src="https://www.svgrepo.com/show/353657/django-icon.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="php logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXalRyF7J7QRLkJfMwCMqA47UUDCFdHJ-dFQ&s" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="mysql logo"  />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="php logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="postgresql logo"  />
   <img width="12" />
 </div>
 
