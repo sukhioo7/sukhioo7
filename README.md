@@ -59,7 +59,7 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" height="30" alt="laravel logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="30" alt="laravel logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="php logo"  />
   <img width="12" />
