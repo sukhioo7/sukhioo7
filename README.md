@@ -54,7 +54,7 @@ alt="coding image gif">
     alt="sukhioo7" />
 </p>
 <p>
-    &nbsp;<img style="width: 50%;" align="left"
+    &nbsp;<img style="width: 60%;" align="left"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
