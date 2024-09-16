@@ -16,6 +16,8 @@ alt="coding image gif">
             regret hiring.
         </p>
     </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhioo7&label=Profile%20views&color=0e75b6&style=flat" alt="sukhioo7" /> </p>
 <h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Connect with me:</h3>
 
 
@@ -93,7 +95,6 @@ alt="coding image gif">
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhioo7&label=Profile%20views&color=0e75b6&style=flat" alt="sukhioo7" /> </p>
 
 - 🔭 I’m currently working on **Generative Models**
 
