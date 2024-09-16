@@ -69,9 +69,9 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" height="30" alt="git logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.pngg" height="30" alt="c++ logo"  />
+  <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" height="30" alt="c++ logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiQqvP9mSAN_KNxZlbvD9VT-yl4Vf_PuT6Cw&s" height="30" alt="wordpress logo"  />
   <img width="12" />
