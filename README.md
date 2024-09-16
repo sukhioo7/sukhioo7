@@ -22,10 +22,10 @@ alt="coding image gif">
 <h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Hire Me</h3>
 
 <div align="left">
-  <a href="https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing">
+  <a  align="left" href="https://drive.google.com/file/d/1ij34o92he4CSVopl1iqsVUdwe0zWlvKn/view?usp=sharing">
       <img src="https://cdn-icons-png.freepik.com/256/16326/16326988.png?uid=R64479108&semt=ais_hybrid" height="35" alt="resume logo"  />
   </a>
-  <h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Resume/CV</h3>
+  <h3 style="font-faimly:Cascadia Code SemiBold;">Resume/CV</h3>
 </div>
 
 <h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Connect with me:</h3>
