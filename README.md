@@ -43,9 +43,11 @@ alt="coding image gif">
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IsXMTUN_T52cx7rtRLKau0sMkhpQPfzlqA&s" height="30" alt="sklearn logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://avatars.githubusercontent.com/u/16359713?v=4" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://huggingface.co/chat/settings/assistants/65c105e6b5a9dd265ad6f801/avatar.jpg?hash=e284dce847bae467ab6abfc6df6fdc043f9903328570879d05f0e7181415ea58" height="30" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -53,7 +55,7 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
 </div>
 
 <p></p>
