@@ -49,7 +49,7 @@ alt="coding image gif">
 </div>
 
 <p>
-    <img style="width: 40%;" padding-top: 10%;" align="right"
+    <img style="width: 40%;" padding-top: 10%;" align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
