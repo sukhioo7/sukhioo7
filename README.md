@@ -101,7 +101,7 @@ alt="coding image gif">
     alt="sukhioo7" />
 </p>
 <p>
-    &nbsp;<img style="width: 539px;" align="center"
+    &nbsp;<img style="width: 509px;" align="center"
     src="https://github-readme-stats.vercel.app/api?username=sukhioo7&show_icons=true&locale=en"
     alt="sukhioo7" />
 </p>
