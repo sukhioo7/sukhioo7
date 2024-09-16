@@ -32,7 +32,7 @@ alt="coding image gif">
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -49,7 +49,7 @@ alt="coding image gif">
 </div>
 
 <p>
-    <img style="width: 40%;" padding-top: 10%;" align="center"
+    <img style="width: 40%;" padding-top: 10%;" align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=sukhioo7&show_icons=true&locale=en&layout=compact"
     alt="sukhioo7" />
 </p>
