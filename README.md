@@ -41,7 +41,7 @@ alt="coding image gif">
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IsXMTUN_T52cx7rtRLKau0sMkhpQPfzlqA&s" height="30" alt="sklearn logo"  />
   <img width="12" />
@@ -49,13 +49,24 @@ alt="coding image gif">
   <img width="12" />
   <img src="https://huggingface.co/chat/settings/assistants/65c105e6b5a9dd265ad6f801/avatar.jpg?hash=e284dce847bae467ab6abfc6df6fdc043f9903328570879d05f0e7181415ea58" height="30" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="anaconda logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-
+  <img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" height="30" alt="php logo"  />
+  <img width="12" />
 </div>
 
 <p></p>
