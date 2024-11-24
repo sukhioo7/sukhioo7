@@ -22,7 +22,7 @@ alt="coding image gif">
 <h3 style="font-faimly:Cascadia Code SemiBold;" align="left">Hire Me</h3>
 
 <div align="left">
-  <a href="https://drive.google.com/file/d/1rpH1JA8K2ECZCCFcDdB84yRyesz9L3H6/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1YB1Grv1wHGA5vmUtUI8BqChq9gOAf4i5/view?usp=sharing">
       <img src="https://cdn.paperpile.com/blog/img/CV-with-star-1400x700.png" height="55" alt="resume logo"  />
   </a>
 </div>
